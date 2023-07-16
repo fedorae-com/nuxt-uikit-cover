@@ -118,22 +118,22 @@
                             href="https://github.com/fedorae-com/nuxt-uikit"
                         >
                             LEARN MORE
-                            <a
-                                class="
-                                    uk-margin-small-left
-                                    uk-button
-                                    uk-button-primary
-                                    uk-button-large
-                                    uk-width-2-3
-                                    uk-width-auto@s
-                                "
-                                data-uk-icon="check"
-                                title="Try it out"
-                                target="_blank"
-                                href="https://nuxt-uikit.fedorae.com"
-                            >
-                                TRY IT OUT
-                            </a>
+                        </a>
+                        <a
+                            class="
+                                uk-margin-small-left
+                                uk-button
+                                uk-button-primary
+                                uk-button-large
+                                uk-width-2-3
+                                uk-width-auto@s
+                            "
+                            data-uk-icon="check"
+                            title="Try it out"
+                            target="_blank"
+                            href="https://nuxt-uikit.fedorae.com"
+                        >
+                            TRY IT OUT
                         </a>
                     </div>
                 </div>
